@@ -1,6 +1,4 @@
 # Marina Kovel
-============
-
 
 ------------------     -------------------------------------------------------
 **My address:**                        Goretskogo st., 25-17, 220019 Minsk (Belarus)
@@ -16,11 +14,11 @@
 -------------------     ------------------------------------------------------
 
 ## Summary
---------
 I study JavaScript at the Rolling Scopes School and would like to start a career in this area. I currently work as a Senior Marketing Specialist at the LLC "FelOct-service" (SKODA importer in Belarus) in Minsk and I completed my studies at the Belarusian State University in Minsk, Belarus in 2009. I perceive myself as a fast-learner able to take initiative and work independently, but also as an effective team player. I believe I can offer your organization professional commitment and support.
 
-## Work experience
 --------
+
+## Work experience
 
 - *03/09/2018–Present:* 
 **Senior Marketing Specialist**; FelOct-service, LLC (General SKODA Importer in Belarus), Minsk (Belarus)
@@ -71,10 +69,11 @@ I study JavaScript at the Rolling Scopes School and would like to start a career
     - working with clients in the Call center
     - administrative work including drafting correspondence, replying to various queries of clients as well as management, processing contracts
 
-## Education and Training
 ----------------------
 
-05/07/2021-Present
+## Education and Training
+
+13/12/2021-Present
 :   **JavaScript/Front-end. Stage 0**; Rolling Scopes School
 
     *JavaScript/Front-end basics*
@@ -108,9 +107,9 @@ I study JavaScript at the Rolling Scopes School and would like to start a career
 
     *Public administration and economics (2 full years towards Bachelor’s degree)*
      
+-------------------
 
 ## Personal skills
--------------------
 
 * **Mother tongues:** Russian, Belarusian
 
@@ -129,6 +128,8 @@ I study JavaScript at the Rolling Scopes School and would like to start a career
     * Diligent
 
 *  **Digital skills:** HTML, CSS, Git, excellent knowledge of MS Office (PowerPoint, Word, Excel advanced user: pivot tables, macros, automatic data update, other tools), web-administration (different platforms)
+
+-------------------
 
 ## Code example
 ```
