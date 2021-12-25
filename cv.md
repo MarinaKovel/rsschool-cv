@@ -1,4 +1,4 @@
-#Marina Kovel
+# Marina Kovel
 ============
 
 
@@ -15,11 +15,11 @@
 
 -------------------     ------------------------------------------------------
 
-##Summary
+## Summary
 --------
 I study JavaScript at the Rolling Scopes School and would like to start a career in this area. I currently work as a Senior Marketing Specialist at the LLC "FelOct-service" (SKODA importer in Belarus) in Minsk and I completed my studies at the Belarusian State University in Minsk, Belarus in 2009. I perceive myself as a fast-learner able to take initiative and work independently, but also as an effective team player. I believe I can offer your organization professional commitment and support.
 
-##Work experience
+## Work experience
 --------
 
 - *03/09/2018–Present:* 
@@ -71,7 +71,7 @@ I study JavaScript at the Rolling Scopes School and would like to start a career
     - working with clients in the Call center
     - administrative work including drafting correspondence, replying to various queries of clients as well as management, processing contracts
 
-##Education and Training
+## Education and Training
 ----------------------
 
 05/07/2021-Present
@@ -109,7 +109,7 @@ I study JavaScript at the Rolling Scopes School and would like to start a career
     *Public administration and economics (2 full years towards Bachelor’s degree)*
      
 
-##Personal skills
+## Personal skills
 -------------------
 
 * **Mother tongues:** Russian, Belarusian
@@ -128,4 +128,11 @@ I study JavaScript at the Rolling Scopes School and would like to start a career
     * Team Player
     * Diligent
 
-*  **Digital skills:** excellent knowledge of MS Office (PowerPoint, Word, Excel advanced user: pivot tables, macros, automatic data update, other tools), web-administration (different platforms)
+*  **Digital skills:** HTML, CSS, Git, excellent knowledge of MS Office (PowerPoint, Word, Excel advanced user: pivot tables, macros, automatic data update, other tools), web-administration (different platforms)
+
+## Code example
+```
+// This is a JS example
+var test = "Hello RS School!";
+console.log(test);
+```
